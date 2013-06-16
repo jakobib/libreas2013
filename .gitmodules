@@ -1,0 +1,3 @@
+[submodule "makedoc"]
+	path = makedoc
+    url = git@github.com:jakobib/makedoc.git
