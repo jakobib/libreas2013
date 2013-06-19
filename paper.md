@@ -1,38 +1,38 @@
-Daten und ihre Nutzung in Form von Metadaten, Forschungsdaten, Big Data etc.
-erfahren derzeit eine verstärkte Aufmerksamkeit. Dieses Interesse an Daten
-lässt sich bis zu den Anfängen der Computer zurückverfolgen, ohne dass ein
-eigenständiges, theoretisches Konzept von *Daten* erkennbar wäre. Der folgende
-Beitrag gibt eine kurze Einführung in verschiedene Datenbegriffe aus
-philosophischer Sicht und verbindet diese mit dem Begriff des Dokuments in der
+Daten und ihre Nutzung in Form von Big Data, Metadaten, Forschungsdaten etc.
+erfahren derzeit verstärkte Aufmerksamkeit. Dieses Interesse 
+lässt sich bis zu den Anfängen der Computernutzung zurückverfolgen, ohne dass 
+ein eigenständiges, theoretisches Konzept von *Daten* erkennbar wäre. Der 
+folgende Beitrag gibt eine kurze Einführung in verschiedene Datenbegriffe aus
+philosophischer Sicht und verbindet diese mit dem Konzept des Dokuments in der
 Bibliotheks- und Informationswissenschaft.
 
 # Information und Daten
 
-Sowohl in der Bibliotheks- und Informationswissenschaft als auch die Informatik
-und verwandten Disziplinen liegt der Schwerpunkt des Forschungsinteresses auf
-dem Begriff der *Information*, während Daten höchstens als sekundäres Konzept
-herangezogen oder quasi synonym zu Informationen verwendet werden.  Bekannt ist
-unter Anderem die Informationstheorie von Claude Shannon [-@Shannon1948], der
-Information mathematisch als eine Menge von Bits definiert und dabei Aspekte
-der Bedeutung explizit ausklammert. Zusammen mit der häufig anzutreffenden
-Definition von Information als Daten mit Bedeutung [@Floridi2005;
-@Kettinger2010] ist eine Unterscheidung von Daten und Informationen somit nicht
-möglich. 
+Der Begriff der Information steht im Mittelpunkt der Forschung verschiedener
+Disziplinen wie Informatik, Information Systems und Bibliotheks- und 
+Informationswissenschaft. Daten werden dabei höchstens als sekundäres Konzept
+herangezogen oder quasi synonym zu Informationen aufgefasst.
 
-Mindestens bis in die 1960er lässt sich zeigen [@Gray2003], dass in der
-Fachliteratur keine Unterscheidung zwischen Daten und Informationen getroffen
-wird. Später überwiegt der Bezug auf Informationen, während noch immer implizit
-oft davon ausgegangen wird, dass diese mehr oder weniger mit Daten
-gleichzusetzen sind [@Boell2011; @McKinney2010].
-
-Der Ruf nach einer Ausrichtung der Informatik zur einer Wissenschaft von Daten,
-wie von Peter Naur [-@Naur1966] unter der Bezeichnung “Datalogy” gefordert,
-blieb ungehört, so dass Daten als *primärer* Forschungsgegenstand noch immer
-ein Schattendasein führen. Ob kritische Auseinandersetzungen mit Daten aus
-geisteswissenschaftlicher Sicht, wie in dem kürzlich erschienenen Sammelband
-von [@Gitelman2013], zu einer verstärkten Untersuchung des Phänomens Daten
+Bekannt ist unter Anderem die Informationstheorie von Claude Shannon [-@Shannon1948], 
+der Information mathematisch als eine Menge von Bits definiert und dabei Aspekte
+der Bedeutung explizit ausklammert. Eine weitere häufig anzutreffende Definition
+von Information besteht im Gegensatz dazu aus ‚Daten mit Bedeutung‘ [@Floridi2005; @Kettinger2010]. Ob Daten Bedeutung haben oder nicht und wie sich damit Daten
+von Informationen unterscheiden, ist also unklar. Mindestens bis in die 1960er
+lässt sich zeigen [@Gray2003], dass in der Fachliteratur keine Unterscheidung 
+zwischen Daten und Informationen getroffen wurde. Während später die Bezeichnung
+Information die Rede von Daten verdrängt, wird oft nocht immer implizit
+oft davon ausgegangen, dass beide mehr oder weniger gleichzusetzen sind 
+[@Boell2011; @McKinney2010]. Während dabei Informationen in verschiedenen 
+Disziplinen eine zentrale Rolle spielen, führend Daten als *primärer* 
+Forschungsgegenstand noch immer ein Schattendasein. Der Ruf nach einer 
+Wissenschaft von Daten, wie vom Informatiker Peter Naur [-@Naur1966] unter 
+der Bezeichnung “Datalogy” gefordert, blieb weitgehend ungehört. Erst in den
+letzten Jahren ist neben rein affirmativen Trends wie Linked Data und Big Data
+auch eine kritische Auseinandersetzung mit dem Datenbdamit zu beobachten, was Daten eigentlich
+sind. Ob Beiträge wie der kürzlich erschienenen Sammelband von Lisa Gitelman
+[@Gitelman2013] zu einer verstärkten Untersuchung des Phänomens Daten
 führen, bleibt abzuwarten. Zur Klärung des Datenbegriffs ist es in jedem Fall
-notwendig etwas tiefer zu graben. Hierbei kann wie im folgenden dargelegt wird
+notwendig etwas tiefer zu graben. Hierbei kann wie im Folgenden dargelegt 
 die Philosophie helfen.
 
 # Philosophie der Daten
@@ -40,10 +40,11 @@ die Philosophie helfen.
 Wie die Lateinisch Wurzel *datum* (von *dare* für ‚geben‘) anzeigt, werden
 Daten oft als ‚etwas Gegebenes‘ angenommen. Der Begriff *data* geht auf das
 Werk Δεδομένα des Euklid zurück, in dem er zeigt wie gesuchte geometrische
-Eigenschaften von anderen gegebenen Größen abgeleitet werden können. Im Rahmen
-von Erkenntnistheoretischen Überlegungen wurden mit Beginn des 20. Jahrhunderts
+Eigenschaften von anderen gegebenen Größen abgeleitet werden können. Mit Beginn
+des 20. Jahrhunderts wurden im Rahmen Erkenntnistheoretischer Überlegungen 
 unmittelbar zugängliche Wahrnehmungen als ‚Sinnesdaten‘ bezeichnet. Eine
-philosophische Auseinandersetzung mit dem modernen Datenbegriff findet sich
+philosophische Auseinandersetzung mit dem modernen Datenbegriff, wie er im
+Zusammenhang mit automatischer Datenverarbeitung auftritt, findet sich
 erst bei Luciano Floridi und Brian Ballsun-Stanton.
  
 ## Floridis diaphorische Definition von Daten
@@ -51,29 +52,29 @@ erst bei Luciano Floridi und Brian Ballsun-Stanton.
 Obgleich der Schwerpunkt der Analysen von Floridi [-@Floridi2010;
 -@Floridi2009] auf Information liegt, hat der italienische Philosoph mit seiner
 *diaphorischen Definition von Daten* (vom Griechischen διαφορά für
-‚Unterschied‘) auch Grundlegendes zur Definition von Daten beigetragen. Darin
-definiert Floridi [-@Floridi2010, S. 23] Daten als:
+‚Unterschied‘) auch Grundlegendes zur Definition von Daten beigetragen. 
+Floridi [-@Floridi2010, S. 23] definiert Daten als:
 
 > *x* being distinct from *y*, where *x* and *y* are two uninterpreted variables
 > and the relation of ‘being distinct’, as well as the domain, are left open to
 > further interpretation.
 
-Die Definition ist demnach verknüpft mit dem Problemen der Identität und
-Gleichheit.  Wo Dingen praktisch das Gleiche sind oder ununterscheidbar werden
-sind keine Daten möglich. Floridi führt weiter verschiedene Arten von Daten
-aus, im speziellen
+Die Definition ist demnach verknüpft mit dem Problemen der Identität und 
+Gleichheit.  Wo Dinge praktisch das Gleiche sind oder ununterscheidbar werden
+sind also keine Daten möglich. Floridi führt weiter verschiedene Arten von 
+Daten aus, im speziellen
 
-* Unterschiede in der Wirklichkeit (*data de re*), die nicht direkt
-  zugänglich sind sondern als gegeben vorausgesetzt werden, da wir ohne sie 
-  nichts anderes als Gleichförmigkeit wahrnehmen könnten.
+* Unterschiede in der Wirklichkeit (*data de re*). Diese Unterschiede sind
+  nicht direkt zugänglich sondern müssen als gegeben vorausgesetzt werden, da 
+  wir ohne sie nichts anderes als Gleichförmigkeit wahrnehmen würden.
 * Unterschiede in der Wahrnehmung (*data de signo*) von verschiedenen 
   physikalischen Zuständen.
 * Unterschiede zwischen Symbolen (*data de dicto*), beispielsweise zwischen 
   den Buchstaben ‚A‘ und ‚B‘.
 
 Während *data de re* ein rein theoretisches Konstrukt zur Beschreibung der
-Realität sind, lassen sich *data de signo* und *data de dicto* als analoge bzw.
-digitalen Daten interpretieren. Im Rahmen der Datenverarbeitung spielen dabei
+Realität sind, lassen sich *data de signo* und *data de dicto* auch als analoge
+bzw. digitalen Daten interpretieren. Im Rahmen der Datenverarbeitung spielen
 Daten als Unterschiede in der Wahrnehmung physikalischer Zustände lediglich für
 Sensoren und Messinstrumente eine Rolle; der Großteil von Daten besteht heute
 aus unterschiedlichen Symbolen die von Computern verarbeitet werden.
@@ -96,7 +97,7 @@ unterscheiden:
 * In der Vorstellung von *Daten als Beobachtungen* (“data as observations”) 
   sind Daten aufgezeichnete Wahrnehmungen. Sie sind prinzipiell subjektiv,
   benötigen Kontextwissen und müssen gefiltert werden, um aus den Daten 
-  relevante Informationen zu extrahieren. Beispiele für diese Daten die 
+  relevante Informationen zu extrahieren. Beispiele für diese Daten sind die 
   Notizen eines Forschers, Interviews oder Audio- und Videoaufzeichnungen.
   Ebenso wie in der Vorstellung von Daten als Fakten wird davon ausgegangen,
   dass sich Daten auf reale Phänomene beziehen; der Bezug ist allerdings nicht
@@ -109,21 +110,21 @@ unterscheiden:
   Charakter von Daten im Vordergrund. Obgleich Daten als Nachrichten in 
   unterschiedlichen Repräsentationsformen auftreten können (Texte, Diagramme, 
   Tabellen etc.) sind Daten dieser Vorstellung nach letztendlich eine Folge 
-  von Bits.^[Eine genauere Untersuchung dieser Formen von Daten findet sich 
-  in meiner Dissertation [@Voss2013; @Voss2011].]
+  von Bits.^[Eine genauere Untersuchung dieser verschiedenen Formen von Daten 
+  findet sich in meiner Dissertation [@Voss2013; @Voss2011].]
 
 Beim Vergleich mit den aktuellen Diskursen um Linked Data, Big Data und
 Forschungsdaten lässt sich feststellen, dass bei jedem Trend eine andere Sicht
 auf Daten dominiert: im Semantic Web werden Daten vorrangig als kombinierbare
-(Aussagen über) Fakten aufgefasst. Eine Kontextualisierung der Daten,
+Fakten (oder Faktenaussagen) aufgefasst. Eine Kontextualisierung der Daten,
 beispielsweise durch Einbindung von Provenienzinformationen, ist innerhalb des
 RDF-Modells nur schwer möglich. Im Rahmen von Big Data spielt die
 Interpretation und Filterung von Daten eine größere Rolle. Daten werden hierbei
 eher als aufgezeichnete Beobachtungen aufgefasst, die sich unter Anderem
 mittels statistischer Verfahren wie Textmining und Bildverarbeitung auswerten
-lassen. Eine vorherrschende Vorstellung von Forschungsdaten lässt sich
+lassen. Eine einheitliche Vorstellung von Forschungsdaten lässt sich
 angesichts der Unterschiede zwischen Fachdisziplinen weniger klar festmachen. 
-Geht man aber davon aus, dass unter Forschungsdaten alle Daten fallen 
+Geht man aber davon aus, dass unter Forschungsdaten alle Daten subsumiert werden
 können, die im Rahmen einer wissenschaftlichen Tätigkeit anfallen [vgl. @Walther2013],
 so steht hier die Funktion von Daten innerhalb eines kommunikativen Prozesses 
 im Vordergrund und Forschungsdaten folgen damit der Vorstellung von Daten als 
@@ -204,4 +205,9 @@ Bibliotheken gelten sollte:
 
 > Not ‘all the world’s information’, but all the world’s documents.
 
-## Literatur
+<!--
+Durch Ausklammerung der Bedeutungsebene ist eine sinnvolle Differenzierung zwischen
+Daten und Informationen somit unmöglich.
+-->
+
+# Literatur

@@ -1,4 +1,4 @@
-TITLE = Was sind eigentlich Daten? Von Information zum Dokument.
+TITLE = Was sind eigentlich Daten?
 AUTHOR = Jakob Voß
 BIBLIOGRAPHY = bibliography.bib
 # CSL style for HTML
