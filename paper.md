@@ -138,7 +138,35 @@ Vorstellung von Daten als binäre Nachrichten.
 Tripel-Models oder die Kodierung der einzelnen Tripel-Bestandteile durch andere
 Tripel (Reification). 
 
-# Daten und Dokumente
+# Wissenschaft von Daten
+
+Die semiotische Sicht, nach der sich Daten als digitale Nachrichten
+auffassen lassen, ermöglicht eine Auseinandersetzung mit Daten, die diese ins
+Zentrum der Bibliotheks- und Informationswissenschaft rückt.
+Die fortschreitender Digitalisierung aller Kommunikations- und
+Publikationsmittel hat dazu geführt, dass das was Bibliothek und
+Informationseinrichtungen sammeln, ordnen und verfügbar machen, letzendlich
+Daten sind. Die Forderung nach einer Orientierung der Bibliothekswissenshaft
+an einer 'Datenwissenschaft' wäre jedoch irreführend, da dieser statistisch 
+orientierten Fachdisziplin der falsche Datenbegriff zugrunde liegt.
+Das primäre Ziel der "data science" ist die
+Auswertung von Daten, um daraus neue Informationen zu gewinnen; Daten werden
+dabei vor allem als Messungen und Beobachtungen aufgefasst, aus denen sich
+Unterschiede zwischen physikalischen Zuständen oder realen Gegebenheiten
+ableiten lassen. Für Bibliotheken und Informationseinrichtungen ist dagegen
+eine grundsätzlich andere Eigenschaft von Daten von Interesse, und zwar ihr
+Charakter als publizierte Nachricht. Der Fachbegriff für solche Nachrichten ist
+das 'Dokument' und die dazugehörige Wissenschaft die Dokumentation oder
+Dokumentationswissenschaft.
+
+# Das Dokument im digitalen Zeitalter
+
+[@Dudek2012] ... 
+
+oder: die Wiedergeburt der Dokumentationswissenschaft
+
+...Ziel der Bibliotheks- und Informationswissenschaft war es nie, 
+Dokumente auszuwerten, um daraus neue Informationen zu gewinnen...
 
 Mit fortschreitender Digitalisierung von Dokumenten und Informationsmitteln
 spielen Daten auch in der Bibliotheks und Informationswissenschaft eine 
@@ -165,6 +193,8 @@ demonstrate a physical or conceptual phenomenon.”^[Zitiert in Übersetzung
 nach Buckland [-@Buckland1997].] Für digitale Dokumente gilt demnach, dass
 jede Folge von Bits als Dokument verwendet werden kann. 
 
+...Daten als Beobachtungen...?
+
 Die Definition von Dokumenten über ihre Funktion -- speziell ihre Funktion zur 
 Repräsentation, Konstruktion oder als Nachweis -- betont den semiotischen 
 Charakter von Dokumenten und ermöglicht eine Zusammenführung mit dem 
@@ -184,7 +214,17 @@ grundsätzlichen Unterschied zwischen Daten und Metadaten.^[Siehe auch
 [@Renear2009] für eine weitere Argumentationslinie zur Gleichsetzung 
 digitaler Dokumente mit ihrer binären Form.]
 
-# Folgerungen
+...
+Während sich einerseits der traditionelle Dokumentbegriff mit der Digitalisierung 
+auflöst, lässt sich andererseits ein verstärktes Interesse am Dokument feststellen
+(...)
+
+[@Dudek2012] ... 
+
+Beispielsweise Adressdatensatz:
+wichtiger als die genaue Addresse ist jedoch das es sich um einen Adressdatensatz handelt.
+
+...
 
 Die Vorstellung von Daten als kommunizierten Bits (Ballsun-Stanton) oder 
 anderen Symbolen (Floridi) hat zum Vorteil, dass der Datenbegriff ohne 
@@ -195,6 +235,13 @@ den Daten „enthalten“ sind, ist bei Daten als digitalen Dokumenten deutlich,
 dass je nach Rezeptionskontext gnaz unterschiedliche Inhalte im Vordergrund
 stehen können. Für die Hinwendung auf den Zeichencharakter von Daten ist
 es allerdings notwendig, sich vom Begriff der Information zu lösen.
+
+Umgekehrt sind alle digitalen Dokumente Daten im Sinne der Vorstellung von
+...
+Damit lassen sich Daten und digitale Dokumente quasi synonym verwenden.
+
+Nicht Informationen, sondern Dokumente
+
 Sowohl Daten als auch (digitale) Dokumente werden oft als (Sammlungen von) 
 Informationen bezeichnet oder mit Informationen gleichgesetzt. Dieses
 Missverständnis reicht tief in das Verständnis des heutigen Internets: 
@@ -206,11 +253,15 @@ schrieb Tim Berners-Lee [-@BernersLee1999], der Erfinder des WWW:
 
 Ted Nelson, dessen Konzept von Hypertext in wesentlichen Punkten über 
 heutige Hypertexte hinausgeht, korrigierte diese Beschreibung in einer
-Replik [@Nelson2010] und stellte fest was heute auch für das zentrale Thema
-der Bibliotheks- und Informationswissenschaft und für die Aufgabe von
-Bibliotheken gelten sollte:
+Replik [@Nelson2010]:
 
 > Not ‘all the world’s information’, but all the world’s documents.
+
+<!--
+und stellte fest was heute auch für das zentrale Thema
+der Bibliotheks- und Informationswissenschaft und für die Aufgabe von
+Bibliotheken gelten sollte:
+-->
 
 <!--
 Durch Ausklammerung der Bedeutungsebene ist eine sinnvolle Differenzierung zwischen
@@ -220,6 +271,54 @@ Daten und Informationen somit unmöglich.
 <!-- Ob Beiträge wie der kürzlich erschienenen Sammelband von
 Lisa Gitelman [@Gitelman2013] zu einer verstärkten Untersuchung des Phänomens
 Daten führen, bleibt abzuwarten. --> 
+
+# Fazit
+
+Grundsätzlich lassen sich verschiedene Konzepte von Daten voneinander 
+abgrenzen. Bei Diskursen und Aktivitäten um Daten sollte deshalb zunächst
+geklärt werden, welches Datenkonzept zugrunde gelegt wird. Prinzipiell handelt
+es sich bei Daten um Unterschiede. Diese Unterschiede können im ersten Fall 
+primär zwischen realen Vorgängen angenommen werden, so dass Daten als objektive
+Fakten auftreten. Im zweiten Fall spiegeln Daten vor allem Unterschiede 
+zwischen verschiedenen Wahrnehmungen oder Beobachtungen wider, die auf 
+mögliche oder tatsächliche Fakten verweisen. In der dritten und für die 
+Bibliotheks- und Informationswissenschaft entscheidende Vorstellung von Daten
+spielen die Fakten oder Inhalte von Daten nur eine untergeordnete Rolle.
+Stattdessen werden Daten primär als Unterschiede zwischen Symbolen aufgefasst,
+die der Kommunikation dienen. Die kommunikativen Artefakte, als die Daten in
+diesem Fall auftreten, sind identisch mit digitalen Dokumenten.
+
+Die primäre Beschäftigung mit Dokumenten reicht zu den Ursprüngen der 
+Bibliotheks- und Informationswissenschaft zurück. Mit dem Aufkommen von
+Computern zur Verarbeitung bibliographischer Daten fand allerdings
+ein Wechsel vom Dokument zur Information statt, der im Nachhinein als
+Irrtum der Fachdisziplin in Bezug auf den Datenbegriff gedeutet werden kann:
+Die Beschäftigung mit den Inhalten von Dokumenten, ganz gleich ob digital 
+oder physisch, ist nämlich Aufgabe der Autoren und Leser, während für 
+Bibliotheken und Informationseinrichtungen die kommunikative Funktion des 
+Dokumentes im Vordergrund steht.[^Archiv] Ebenso gilt für digitale Objekte
+dass nicht primär die darin kodierten Informationen sondern der semiotische
+Charakter der Daten von Interesse ist.
+
+[^Archiv]: Zwar staubt ein Großteil von Dokumenten in Bibliotheken und 
+Archiven im wahrsten Sinne des Wortes Jahrzehnte und länger vor sich hin,
+ohne dass eine Kommunikation stattfinden würde. Es ist jedoch auch nicht 
+Aufgabe dieser Einrichtungen, ihre Bestände lediglich nach aktuellem
+Nutzwert inhaltlich auszuwerten und danach auszusondern, sondern die 
+Möglichkeit einer wiederholten Kommunikation zwischen Autor und Leser 
+über die Zeit hinweg aufrecht zu erhalten.
+
+Wie die fachlich richtige Auseinandersetzung mit digitalen Dokumenten bzw.
+mit Daten als Nachrichten genau auszusehen hat, steht noch nicht fest. Der 
+erste Schritt ist vermutlich die praktische Beschäftigung mit digitalen 
+Publikationen so wie sie tatsächlich in Form von Blogartikeln, Tweets, 
+Datensätzen, Dateien u.v.a.m. verwendet werden. Als Vorbild kann  
+beispielsweise das Internet Archive dienen, das seit 1996 ...
+
+... Daten, beispielsweise bei der Beschäftigung mit Forschungsdaten ... 
+spielt es weniger eine Rolle, welche Information "tatsächlich" in einem 
+Dokument oder Datensatz enthalten sind, sondern für was, von und für wen 
+das Dokument in welchem Zusammenhang verwendet wird.
 
 
 # Literatur
