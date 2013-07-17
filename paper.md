@@ -118,23 +118,23 @@ unterscheiden:
 Beim Vergleich mit den aktuellen Diskursen um Linked Data, Big Data und
 Forschungsdaten lässt sich feststellen, dass bei jedem Trend eine andere Sicht
 auf Daten dominiert: im *Semantic Web* werden Daten vorrangig als kombinierbare
-Fakten (oder Faktenaussagen) aufgefasst --- symptomatisch für die dabei 
-vorherrschende Vorstellung von Daten ist beispielsweise die Übernahme des Begriffs 'Ontologie',
-der sich auf das Seiende bezieht. Eine Kontextualisierung der Daten,
-beispielsweise durch Einbindung von Provenienzinformationen, ist innerhalb des
-RDF-Modells nur sehr schwer möglich.[^Reification] Im Rahmen von *Big Data*
-spielt die Interpretation und Filterung von Daten eine größere Rolle. Daten
-werden hierbei eher als aufgezeichnete Beobachtungen aufgefasst, die sich unter
-Anderem mittels statistischer Verfahren wie Textmining und Bildverarbeitung
-auswerten lassen. Eine einheitliche Vorstellung von *Forschungsdaten* lässt sich
-angesichts der Unterschiede zwischen Fachdisziplinen weniger klar festmachen.
-Geht man davon aus, dass unter Forschungsdaten alle Daten subsumiert werden
-können, die im Rahmen einer wissenschaftlichen Tätigkeit anfallen [vgl.
-@Walther2013], so steht hier die Funktion von Daten innerhalb eines
-kommunikativen Prozesses im Vordergrund. Forschungsdaten folgen damit der
-Vorstellung von Daten als binäre Nachrichten.
+Fakten (oder Faktenaussagen) aufgefasst --- symptomatisch für die dabei
+vorherrschende Vorstellung von Daten ist die Übernahme des Begriffs
+'Ontologie', der sich auf das Seiende bezieht. Eine Kontextualisierung der
+Daten, beispielsweise durch Einbindung von Provenienzinformationen, ist
+innerhalb des RDF-Modells nur sehr schwer möglich.[^Reification] Im Rahmen von
+*Big Data* spielt die Interpretation und Filterung von Daten eine größere
+Rolle. Daten werden hierbei eher als aufgezeichnete Beobachtungen aufgefasst,
+die sich unter Anderem mittels statistischer Verfahren wie Textmining und
+Bildverarbeitung auswerten lassen. Eine einheitliche Vorstellung von
+*Forschungsdaten* lässt sich angesichts der Unterschiede zwischen
+Fachdisziplinen weniger klar festmachen.  Geht man davon aus, dass unter
+Forschungsdaten alle Daten subsumiert werden können, die im Rahmen einer
+wissenschaftlichen Tätigkeit anfallen [vgl.  @Walther2013], so steht hier die
+Funktion von Daten innerhalb eines kommunikativen Prozesses im Vordergrund.
+Forschungsdaten folgen damit der Vorstellung von Daten als binäre Nachrichten.
 
-[^Reification]: Übliche Strategien beinhalten eine Erdeweiterung des
+[^Reification]: Übliche Strategien beinhalten eine Erweiterung des
 Tripel-Models oder die Kodierung der einzelnen Tripel-Bestandteile durch andere
 Tripel (Reification). 
 
@@ -151,9 +151,9 @@ orientierten Fachdisziplin ein anderer Datenbegriff zugrunde liegt: das primäre
 Ziel der Datenwissenschaft ist die Auswertung von Daten, um daraus neue
 Informationen zu gewinnen; Daten werden dabei vor allem als Messungen und
 Beobachtungen aufgefasst, aus denen sich Unterschiede zwischen physikalischen
-Zuständen oder realen Gegebenheiten ableiten lassen. Für Bibliotheken und
-Informationseinrichtungen ist dagegen eine grundsätzlich andere Eigenschaft von
-Daten von Interesse, und zwar ihr Charakter als publizierte Nachricht. Der
+Zuständen oder anderen realen Gegebenheiten ableiten lassen. Für Bibliotheken
+und Informationseinrichtungen ist dagegen eine grundsätzlich andere Eigenschaft
+von Daten von Interesse, und zwar ihr Charakter als publizierte Nachricht. Der
 Fachbegriff für solche Nachrichten ist das 'Dokument' und die dazugehörige
 Wissenschaft die Dokumentation oder Dokumentationswissenschaft.
 
@@ -210,19 +210,19 @@ conceptual phenomenon.”^[Zitiert in Übersetzung nach Buckland
 über seine Funktion zur "Repräsentation, Konstruktion oder als Nachweis"
 seines Inhalts definiert.
 
-[^@doc]: Neben Buckland lassen vor allem zwei unabhängige Schulen feststellen,
-auf die hier nicht genauer eingegangen werden soll: zum einen ist dies die
-Kopenhagener Schule der ‘document theory’ [@Hjorland2007; @Hjorland2000; 
+[^@doc]: Neben Buckland lassen sich zwei unabhängige Schulen feststellen, auf
+die hier nicht genauer eingegangen werden soll: zum einen ist dies die
+Kopenhagener Schule der ‘document theory’ [@Hjorland2007; @Hjorland2000;
 @Lund2009; @Orom2007] und zum anderen die Arbeiten des französichen Kollektivs
 Roger T. Pédauque [-@Pedauque2003; -@Pedauque2006; -@Pedauque2007;-@Pedauque2011].
 
-Die Definition von Dokumenten über ihre Funktion als Zeichen und spricht auch
-für eine Zusammenführung von digitalen Dokumenten und dem kommunikativen
+Die Definition von Dokumenten über ihre Funktion als Zeichen spricht auch für
+eine Zusammenführung von digitalen Dokumenten mit dem kommunikativen
 Datenbegriff: werden Daten als binäre Nachrichten aufgefasst, so sind praktisch
 alle Daten auch Dokumente. In der Terminologie der Datenbeschreibung lässt sich
 dieser Zusammenhang auch so ausdrücken, dass Daten genau dann Dokumente sind,
-wenn sie in einem Format mit einem sinnvollen Datenmodell vorliegen [@Voss2009]
-und somit bedeutungstragende Zeichen im semiotischen Sinne sind. 
+wenn sie in einem Format mit einem sinnvollen Datenmodell vorliegen [@Voss2009;
+@Voss2013] und somit bedeutungstragende Zeichen im semiotischen Sinne sind. 
 
 Die Vorstellung von Daten als kommunizierten Bits (Ballsun-Stanton) oder
 anderen Symbolen (Floridi) hat zum Vorteil, dass der Datenbegriff ohne
@@ -242,18 +242,17 @@ physisch, ist nämlich Aufgabe der Autoren und Leser, während für Bibliotheken
 und Informationseinrichtungen die kommunikative Funktion des Dokumentes im
 Vordergrund steht.[^Archiv] Ebenso gilt für digitale Objekte dass nicht primär
 die darin kodierten Informationen sondern der semiotische Charakter der Daten
-von Interesse ist. So ist beispielsweise an einem Adressdatensatz weniger von
-Interesse, ob die Adresse korrekt angegeben ist, sondern dass es sich um einen
+von Interesse ist. So ist beispielsweise an einem Adressdatensatz weniger
+relevant, ob die Adresse korrekt angegeben ist, sondern dass es sich um einen
 Adressdatensatz handelt, der auf eine bestimmte Weise zu einem bestimmten Zweck
 zustande gekommen ist.
 
-[^Archiv]: Zwar staubt ein Großteil von Dokumenten in Bibliotheken und 
-Archiven im wahrsten Sinne des Wortes Jahrzehnte und länger vor sich hin,
-ohne dass eine Kommunikation stattfinden würde. Es ist jedoch auch nicht 
-Aufgabe dieser Einrichtungen, ihre Bestände lediglich nach aktuellem
-Nutzwert inhaltlich auszuwerten und danach auszusondern, sondern die 
-Möglichkeit einer wiederholten Kommunikation zwischen Autor und Leser 
-über die Zeit hinweg aufrecht zu erhalten.
+[^Archiv]: Zwar staubt ein Großteil von Dokumenten in Bibliotheken und Archiven
+im wahrsten Sinne des Wortes Jahrzehnte und länger vor sich hin, ohne dass eine
+Kommunikation stattfinden würde. Es ist jedoch auch nicht Aufgabe dieser
+Einrichtungen, ihre Bestände lediglich nach aktuellem Nutzwert inhaltlich
+auszuwerten, sondern die Möglichkeit einer wiederholten Kommunikation zwischen
+Autor und Leser über die Zeit hinweg aufrecht zu erhalten.
 
 
 <!--
